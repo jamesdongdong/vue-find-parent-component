@@ -17,7 +17,16 @@
     "commands": [{
       "command": "vue-find-partner-compoent.findPartnerCompoent",
       "title": "Find Partner Compoent"
-    }]
+    }],
+    "menus": {
+      "editor/context": [
+        {
+          "when": "editorFocus",
+          "command": "vue-find-partner-compoent.findPartnerCompoent",
+          "group": "navigation"
+        }
+      ]
+    }
   },
   "scripts": {
     "lint": "eslint .",
