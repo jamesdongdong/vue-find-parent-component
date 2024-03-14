@@ -1,6 +1,6 @@
-# vue-find-father-compoent README
+# vue-find-partner-compoent README
 
-This is the README for your extension "vue-find-father-compoent". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "vue-find-partner-compoent". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 

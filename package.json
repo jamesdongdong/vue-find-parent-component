@@ -1,6 +1,6 @@
 {
-  "name": "vue-find-father-compoent",
-  "displayName": "vue-find-father-compoent",
+  "name": "vue-find-partner-compoent",
+  "displayName": "vue-find-partner-compoent",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -15,7 +15,7 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "vue-find-father-compoent.helloWorld",
+      "command": "vue-find-partner-compoent.helloWorld",
       "title": "Hello World"
     }]
   },
