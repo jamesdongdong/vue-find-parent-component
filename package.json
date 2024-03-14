@@ -15,8 +15,8 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "vue-find-partner-compoent.helloWorld",
-      "title": "Hello World"
+      "command": "vue-find-partner-compoent.findPartnerCompoent",
+      "title": "Find Partner Compoent"
     }]
   },
   "scripts": {
