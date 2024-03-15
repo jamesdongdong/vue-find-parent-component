@@ -6,9 +6,10 @@ an extension to find vue parent compoent
 # package & install
 using below command
 
+```
 npm i vsce -g
 vsce package
-
+```
 you will get a vsix file. just install it into your vscode
 ![alt text](image.png)
 
