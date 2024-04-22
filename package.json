@@ -1,6 +1,11 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesdongdong/vue-find-partner-compoent.git"
+  },
   "name": "vue-find-partner-compoent",
   "displayName": "vue-find-partner-compoent",
+  "publisher": "jamesdongdong",
   "description": "",
   "version": "0.0.1",
   "engines": {
