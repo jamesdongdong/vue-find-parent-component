@@ -1,6 +1,6 @@
-# vue-find-partner-compoent README
+# vue-find-partner-component README
 
-an extension to find vue parent compoent
+an extension to find vue parent component
 
 
 # package & install
@@ -14,7 +14,7 @@ you will get a vsix file. just install it into your vscode
 ![alt text](image.png)
 
 # usage demo
-open the vue file and click 'Find Partner Compoent' inside the menu
+open the vue file and click 'Find Partner Component' inside the menu
 
 ![alt text](image-1.png)
 

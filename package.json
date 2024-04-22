@@ -1,10 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamesdongdong/vue-find-partner-compoent.git"
+    "url": "https://github.com/jamesdongdong/vue-find-partner-component.git"
   },
-  "name": "vue-find-partner-compoent",
-  "displayName": "vue-find-partner-compoent",
+  "name": "vue-find-partner-component",
+  "displayName": "vue-find-partner-component",
   "publisher": "jamesdongdong",
   "description": "",
   "version": "0.0.1",
@@ -20,14 +20,14 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "vue-find-partner-compoent.findPartnerCompoent",
-      "title": "Find Partner Compoent"
+      "command": "vue-find-partner-component.findPartnerComponent",
+      "title": "Find Partner Component"
     }],
     "menus": {
       "editor/context": [
         {
           "when": "editorFocus",
-          "command": "vue-find-partner-compoent.findPartnerCompoent",
+          "command": "vue-find-partner-component.findPartnerComponent",
           "group": "navigation"
         }
       ]
