@@ -1,22 +1,27 @@
 # vue-find-parent-component README
 
-an extension to find vue parent component
+a vscode extension to find vue parent component
 
 
-# package & install
-using below command
+## install
+Search `vue-find-parent-component` in Marketplace.
+
+Or, package and install vsix file by yourself.
+
+### packaging method
+Using below command
 
 ```
 npm i vsce -g
 vsce package
 ```
-you will get a vsix file. just install it into your vscode
+You will get a vsix file. Just install it into your vscode
 ![alt text](image.png)
 
 # usage demo
-open the vue file and click 'Find Parent Component' inside the menu
+Open a vue file and click 'Find Parent Component' inside the menu.
 
 ![alt text](image-1.png)
 
-there it is
+There it is!
 ![alt text](image-2.png)
