@@ -1,4 +1,4 @@
-# vue-find-partner-component README
+# vue-find-parent-component README
 
 an extension to find vue parent component
 
@@ -14,7 +14,7 @@ you will get a vsix file. just install it into your vscode
 ![alt text](image.png)
 
 # usage demo
-open the vue file and click 'Find Partner Component' inside the menu
+open the vue file and click 'Find Parent Component' inside the menu
 
 ![alt text](image-1.png)
 
