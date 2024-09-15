@@ -16,12 +16,12 @@ npm i vsce -g
 vsce package
 ```
 You will get a vsix file. Just install it into your vscode
-![alt text](image.png)
+![alt text](images/installByVSIX.png)
 
 # usage demo
 Open a vue file and click 'Find Parent Component' inside the menu.
 
-![alt text](image-1.png)
+![alt text](images/menuPic.png)
 
 There it is!
-![alt text](image-2.png)
+![alt text](images/outcome.png)
